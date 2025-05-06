@@ -99,10 +99,10 @@ Please ensure your code follows the existing style and is well-documented.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
-For questions or collaboration opportunities, reach out to Mohammed Aamir Imran via:
+For questions or collaboration opportunities, reach out to Md Aamir Imran via:
 
-Email: md.aamir.imran@gmail.com
-LinkedIn: Mohammed Aamir Imran
-Instagram: _aamiri_21
+Email: imranmdaamir@gmail.com
+LinkedIn: [Mohammed Aamir Imran](https://www.linkedin.com/in/md-aamir-imran-876307220/)
+Instagram: [_aamiri_21](https://www.instagram.com/_aamiri_21/)
 
 Thank you for visiting the Profile repository!
